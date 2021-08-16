@@ -1,7 +1,7 @@
 import requests
 import json
 
-slack_hook= 'https://hooks.slack.com/services/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'
+slack_hook= 'S L A C K  W E B  H O O K  U R L'
 
 def send_to_slack(event,context):
     
